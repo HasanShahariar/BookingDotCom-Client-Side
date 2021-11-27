@@ -1,0 +1,73 @@
+[
+    {
+        "id": "001",
+        "category": "HealthCare",
+        "name": "Doctor Care",
+        "cost": 4500,
+        "time": "9:00 AM",
+        "Duration": "72 hours",
+        "img" : "../images/1.jpg",
+        "details" : "A doctor may visit a patient at home to diagnose and treat the illness(es). He or she may also periodically review the home health care needs."
+    },
+    {
+        "id": "002",
+        "category": "HealthCare",
+        "name": "Nurse Care",
+        "cost": 4500,
+        "time": "9:00 AM",
+        "Duration": "72 hours",
+        "img" : "",
+        "details" : "The most common form of home health care is some type of nursing care depending on the person's needs. In consultation with the doctor, a registered nurse will set up a plan of care."
+    },
+    {
+        "id": "003",
+        "category": "Therapy",
+        "name": "Physical Therapy",
+        "cost": 2500,
+        "time": "11:00 AM",
+        "Duration": "2 hours",
+        "img" : "",
+        "details" : "Some patients may need help relearning how to perform daily duties or improve their speech after an illness or injury. A physical therapist can put together a plan of care to help a patient regain or strengthen use of muscles and joints. "
+    },
+    {
+        "id": "004",
+        "category": "Home Health Service",
+        "name": "Care from home",
+        "cost": 6000,
+        "time": "10:00 AM",
+        "Duration": "48 hours",
+        "img" : "",
+        "details" : "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing. Some aides have received specialized training to assist with more specialized care under the supervision of a nurse."
+    },
+    {
+        "id": "005",
+        "category": "Nutrition",
+        "name": "Nutrition Support",
+        "cost": 4800,
+        "time": "10:00 AM",
+        "Duration": "1 hours",
+        "img" : "",
+        "details" : "Dietitians can come to a patient's home to provide dietary assessments and guidance to support the treatment plan."
+    },
+    {
+        "id": "006",
+        "category": "X-ray ",
+        "name": "Laboratory and X-ray imaging",
+        "cost": 700,
+        "time": "10:00 AM",
+        "Duration": "1 hours",
+        "img" : "",
+        "details" : "Certain laboratory tests, such as blood and urine tests, can be performed in the comfort of the patient's home. In addition, portable X-ray machines allow lab technicians to perform this service at home."
+    },
+    {
+        "id": "007",
+        "category": "Pharmaceutical",
+        "name": "Pharmaceutical services",
+        "cost": 200,
+        "time": "10:00 AM",
+        "Duration": "24 hours",
+        "img" : "",
+        "details" : "Medicine and medical equipment can be delivered at home. If the patient needs it, training can be provided on how to take medicines or use of the equipment, including intravenous therapy."
+    }
+    
+]
